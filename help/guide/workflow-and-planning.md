@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: ce56c21c-1d75-4694-91a8-06c1b1067026
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 8%
 
 ---
-
 
 # Tutorial su flusso di lavoro e pianificazione
 
@@ -28,7 +28,7 @@ Adobi di soluzioni utilizzate per il flusso di lavoro e la pianificazione:
 
 >[!TIP]
 >
->Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta la sezione [Tutorial sull’integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta le [esercitazioni sull&#39;integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Corsi consigliati
 
@@ -94,7 +94,7 @@ Adobi di soluzioni utilizzate per il flusso di lavoro e la pianificazione:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilizzare i plug-in Adobe Workfront per l’integrazione con Creative Cloud">Utilizzare i plug-in di Adobe Workfront per l’integrazione con Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilizzare i plug-in Adobe Workfront per l’integrazione con Creative Cloud">Utilizza i plug-in di Adobe Workfront per l'integrazione con Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Integra Workfront con Creative Cloud per trovare e aggiornare il lavoro assegnato senza uscire da Adobe Creative Cloud.</em></p>
       </div>
@@ -115,7 +115,7 @@ Adobi di soluzioni utilizzate per il flusso di lavoro e la pianificazione:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it" title="Configurare Adobe Workfront ed AEM Assets Essentials">Configurare Adobe Workfront ed AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it" title="Configurare Adobe Workfront ed AEM Assets Essentials">Configurare Adobe Workfront e AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Scopri come configurare l’integrazione di Adobe Workfront e Assets Essentials</em></p>
       </div>
@@ -136,7 +136,7 @@ Adobi di soluzioni utilizzate per il flusso di lavoro e la pianificazione:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Nozioni di base sui connettori migliorati di Workfront">Nozioni di base sui connettori migliorati di Workfront</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Nozioni di base sui connettori migliorati di Workfront">Nozioni di base sul connettore avanzato di Workfront</a>
           </p>
           <p class="is-size-6"><em>Scopri le nozioni di base del connettore avanzato di Adobe Workfront e Experience Manager Assets.</em></p>
       </div>
@@ -244,5 +244,5 @@ Adobi di soluzioni utilizzate per il flusso di lavoro e la pianificazione:
 
 ## Risorse aggiuntive
 
-* [Eventi Experience League](https://experienceleague.adobe.com/events/)
+* [Eventi Experienci League](https://experienceleague.adobe.com/events/)
 * [Adobe sulla catena di fornitura dei contenuti](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

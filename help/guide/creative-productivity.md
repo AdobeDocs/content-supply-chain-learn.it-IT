@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Produttività creativa: team creativi con prestazioni superiori
 
@@ -82,7 +82,7 @@ Le soluzioni di Adobe utilizzate per la produttività creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Ricolorazione generativa in Illustrator">Ricolorazione generativa in Illustrator</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Ricolorazione generativa in Illustrator">Ricolora generativa in Illustrator</a>
           </p>
           <p class="is-size-6"><em>Scopri come utilizzare il Ricolorazione generativa, basato su Adobe Firefly, in Adobe Illustrator per ricolorare rapidamente le immagini vettoriali per le scatole da tè dell’hotel personalizzate.</em></p>
       </div>
@@ -124,7 +124,7 @@ Le soluzioni di Adobe utilizzate per la produttività creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Varianti dei banner pubblicitari in Photoshop">Varianti dei banner pubblicitari in Photoshop</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Varianti dei banner pubblicitari in Photoshop">Varianti annuncio banner in Photoshop</a>
           </p>
           <p class="is-size-6"><em>Scopri come utilizzare il riempimento generativo, basato su Adobi Firefly, in Adobe Photoshop per accelerare la creazione di banner di annunci web.</em></p>
       </div>
@@ -179,15 +179,15 @@ Le soluzioni di Adobe utilizzate per la produttività creativa:
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Utilizzare le librerie CC" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Utilizzare le librerie CC">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Usa CC Libraries" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Usa CC Libraries">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Utilizzare le librerie CC">Utilizzare le librerie CC</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Usa CC Libraries">Usa CC Libraries</a>
           </p>
           <p class="is-size-6"><em>Scopri come condividere le risorse della libreria CC con il tuo team.</em></p>
       </div>
@@ -432,5 +432,5 @@ Le soluzioni di Adobe utilizzate per la produttività creativa:
 
 ## Risorse aggiuntive
 
-* [Eventi Experience League](https://experienceleague.adobe.com/events/)
+* [Eventi Experienci League](https://experienceleague.adobe.com/events/)
 * [Adobe sulla catena di fornitura dei contenuti](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

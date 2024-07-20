@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
 
 ---
-
 
 # Agilità di marketing: possibilità di scalare le risorse non creative
 
@@ -58,7 +58,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=it" title="Utilizzo di Smart Crop con AEM Assets Dynamic Medie">Utilizzo di Smart Crop con AEM Assets Dynamic Medie</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=it" title="Utilizzo di Smart Crop con AEM Assets Dynamic Medie">Utilizzo di Ritaglio avanzato con AEM Assets Dynamic Medie</a>
           </p>
           <p class="is-size-6"><em>Il ritaglio avanzato utilizza Adobe Sensei per eliminare le attività di ritaglio dei contenuti che richiedono tempo e denaro per una progettazione reattiva.</em></p>
       </div>
@@ -81,7 +81,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Creazione di poster social network con Firefly">Creazione di poster social network con Firefly</a>
           </p>
-          <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su Adobi Firefly, in Adobi Express per creare una campagna di promozione per i social media. Questa esercitazione utilizza il nuovo Adobe Express.</em></p>
+          <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su Adobi Firefly, in Adobe Express per creare una campagna di promozione per i social media. Questa esercitazione utilizza il nuovo Adobe Express.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
@@ -100,7 +100,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Creazione di poster di webinar con il Firefly">Creazione di poster di webinar con il Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Creazione di poster di webinar con il Firefly">Creazione di poster di webinar con Firefly</a>
           </p>
           <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su un Adobe Firefly Adobe Express, per creare un poster di un webinar per un evento di realtà virtuale. Questa esercitazione utilizza il nuovo Adobe Express.</em></p>
       </div>
@@ -121,7 +121,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Eseguire facilmente le campagne social">Eseguire facilmente le campagne social</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Eseguire facilmente le campagne social">Esegui facilmente campagne social</a>
           </p>
           <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su Adobi Firefly, per creare contenuti grafici univoci per campagne web, blog e social. Questa esercitazione utilizza il nuovo Adobe Express.</em></p>
       </div>
@@ -144,7 +144,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Creare contenuti di selezione e onboarding con il Firefly">Creare contenuti di selezione e onboarding con il Firefly</a>
           </p>
-          <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su Adobe Firefly, in Adobi Express per creare grafici univoci per la selezione dei dipendenti e i contenuti di onboarding.</em></p>
+          <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su Adobe Firefly, in Adobe Express per creare grafici univoci per la selezione dei dipendenti e i contenuti di onboarding.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
@@ -163,9 +163,9 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Creazione di contenuti di volantino per una campagna di marketing con Firefly">Creazione di contenuti di volantino per una campagna di marketing con Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Creazione di contenuti di volantino per una campagna di marketing con Firefly">Crea contenuto per la campagna di marketing con Firefly</a>
           </p>
-          <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su Adobe Firefly, in Adobi Express per creare contenuti localizzati da una campagna di marketing alberghiera globale. </em></p>
+          <p class="is-size-6"><em>Scopri come utilizzare Text to Image (Testo in immagine), basato su Adobe Firefly, in Adobe Express per creare contenuti localizzati da una campagna di marketing alberghiera globale. </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
@@ -184,7 +184,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Consentire ai team distribuiti di localizzare i contenuti">Consentire ai team distribuiti di localizzare i contenuti</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Consentire ai team distribuiti di localizzare i contenuti">Consenti ai team distribuiti di localizzare il contenuto</a>
           </p>
           <p class="is-size-6"><em>Scopri in che modo i team di marketing sul campo distribuiti possono personalizzare facilmente i contenuti per la propria area geografica per le campagne di marketing locali. </em></p>
       </div>
@@ -226,7 +226,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Consentire ai team di marketing di creare contenuti multicanale">Consentire ai team di marketing di creare contenuti multicanale</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Consentire ai team di marketing di creare contenuti multicanale">Consenti ai team di marketing di creare contenuti multicanale</a>
           </p>
           <p class="is-size-6"><em>Scopri come i team di marketing degli eventi possono creare contenuti univoci per attrarre gli spettatori per gli eventi online.</em></p>
       </div>
@@ -247,9 +247,9 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilizza questo PDF">Stilizza questo PDF</a>
+              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilizza questo PDF">Personalizzare lo stile di questo PDF</a>
           </p>
-          <p class="is-size-6"><em>Scopri come creare PDF dall’aspetto professionale con gli strumenti di progettazione facili da usare integrati in Adobi Express. Questa esercitazione video utilizza la nuova esperienza Workspace.</em></p>
+          <p class="is-size-6"><em>Scopri come creare PDF dall’aspetto professionale con gli strumenti di progettazione facili da usare integrati in Adobe Express. Questa esercitazione video utilizza la nuova esperienza Workspace.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
@@ -268,7 +268,7 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Panoramica dell’automazione dei contenuti con i servizi Creative Cloud">Panoramica dell’automazione dei contenuti con i servizi Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Panoramica dell’automazione dei contenuti con i servizi Creative Cloud">Panoramica dell'automazione dei contenuti con i servizi Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Panoramica delle funzionalità di Photoshop e Lightroom applicate con Adobe Experience Manager Assets Content Automation.</em></p>
       </div>
@@ -281,17 +281,17 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrazione Adobi Express" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425193?format=jpeg" alt="Integrazione Adobi Express">
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrazione Adobe Express" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425193?format=jpeg" alt="Integrazione Adobe Express">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrazione Adobi Express">Integrazione Adobi Express</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrazione Adobe Express">Integrazione Adobe Express</a>
           </p>
-          <p class="is-size-6"><em>Scopri come ottimizzare le catene di fornitura dei contenuti con AEM Assets e Adobi Express, migliorando la produttività e l’accessibilità per tutti i membri del gruppo.</em></p>
+          <p class="is-size-6"><em>Scopri come ottimizzare le catene di fornitura dei contenuti con AEM Assets e Adobe Express, migliorando la produttività e l’accessibilità per tutti i membri del gruppo.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda il video</span>
@@ -469,5 +469,5 @@ Adobi di soluzioni utilizzate per l’agilità di marketing:
 
 ## Risorse aggiuntive
 
-* [Eventi Experience League](https://experienceleague.adobe.com/events/)
+* [Eventi Experienci League](https://experienceleague.adobe.com/events/)
 * [Adobe sulla catena di fornitura dei contenuti](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

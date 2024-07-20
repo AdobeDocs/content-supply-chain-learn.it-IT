@@ -30,7 +30,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
 
 >[!TIP]
 >
->Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta la sezione [Tutorial sull’integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta le [esercitazioni sull&#39;integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Tutorial
 
@@ -47,9 +47,9 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Panoramica della console/dell’editor di frammenti di contenuto">Panoramica della console/dell’editor di frammenti di contenuto</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Panoramica della console/dell’editor di frammenti di contenuto">Panoramica console/editor frammenti di contenuto</a>
           </p>
-          <p class="is-size-6">Raccolta di video per comprendere e utilizzare la console e l’editor di frammenti di contenuto AEM.</p>
+          <p class="is-size-6">Raccolta di video per comprendere e utilizzare la console ed editor di frammenti di contenuto dell’AEM.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
@@ -69,7 +69,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/edge-delivery-services/sidekick-plugin.html" title="Plug-in e Edge Delivery Services del Sidekick AEM Assets">Plug-in e Edge Delivery Services del Sidekick AEM Assets</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/edge-delivery-services/sidekick-plugin.html" title="Plug-in e Edge Delivery Services del Sidekick AEM Assets">Plug-in e Edge Delivery Services Sidekick AEM Assets</a>
           </p>
           <p class="is-size-6">Scopri come utilizzare il plug-in Sidekick AEM Assets per incorporare risorse gestite in esperienze ad alto impatto distribuite tramite i Edge Delivery Services.</p>
         </div>
@@ -91,7 +91,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Panoramica degli Assets Essentials">Panoramica degli Assets Essentials</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Panoramica degli Assets Essentials">Panoramica Assets Essentials</a>
           </p>
           <p class="is-size-6">Ottieni una panoramica delle funzioni degli Assets Essentials e di come possono essere utilizzati in Adobe Journey Optimizer.</p>
         </div>
@@ -135,7 +135,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=it" title="Mappatura dei metadati">Mappatura dei metadati</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=it" title="Mappatura dei metadati">Metadati mappatura</a>
           </p>
           <p class="is-size-6">Scopri come configurare la mappatura dei metadati tra i campi di Workfront e le proprietà degli Assets Essentials, nonché come configurare gli Assets Essentials per visualizzare i valori mappati.</p>
         </div>
@@ -157,7 +157,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Creare contenuti con E-mail Designer">Creare contenuti con E-mail Designer</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Creare contenuti con E-mail Designer">Crea contenuto con e-mail Designer</a>
           </p>
           <p class="is-size-6">Scopri come creare e-mail da zero. Scopri come utilizzare le risorse della libreria di AEM Assets Essentials, modificare la progettazione delle e-mail responsive e creare e-mail dai modelli.†</p>
         </div>
@@ -201,7 +201,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/video-smart-tags.html" title="Tag video avanzati">Tag video avanzati</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/video-smart-tags.html" title="Tag video avanzati">Tag avanzati video</a>
           </p>
           <p class="is-size-6">non definito</p>
         </div>
@@ -215,15 +215,15 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalizzazione delle esperienze di pagine web complete" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="Personalizzazione delle esperienze di pagine web complete">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalization delle esperienze di pagine web complete" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="Personalization delle esperienze di pagine web complete">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalizzazione delle esperienze di pagine web complete">Personalizzazione delle esperienze di pagine web complete</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalization delle esperienze di pagine web complete">Personalization di esperienze di pagine Web complete</a>
           </p>
           <p class="is-size-6">Scopri come creare un’attività per reindirizzare le pagine del sito ospitate su AEM a una nuova pagina utilizzando Adobe Target.</p>
         </div>
@@ -237,15 +237,15 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalizzazione mediante Visual Experience Composer" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="Personalizzazione mediante Visual Experience Composer">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalization con Compositore esperienza visivo" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="Personalization con Compositore esperienza visivo">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalizzazione mediante Visual Experience Composer">Personalizzazione mediante Visual Experience Composer</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalization con Compositore esperienza visivo">Personalization tramite Visual Experience Composer</a>
           </p>
           <p class="is-size-6">Scopri come creare un’attività di test A/B di Target utilizzando il Compositore esperienza visivo.</p>
         </div>
@@ -267,7 +267,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/create-target-activity.html" title=" Creare attività Target tramite le offerte dei frammenti di esperienza"> Creare attività Target tramite le offerte dei frammenti di esperienza</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/create-target-activity.html" title=" Creare attività Target tramite le offerte dei frammenti di esperienza"> Crea attività Target tramite le offerte dei frammenti di esperienza</a>
           </p>
           <p class="is-size-6">Scopri come creare e testare un’attività di Adobe Target utilizzando le offerte dei frammenti di esperienza AEM.</p>
         </div>
@@ -311,9 +311,9 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="Tag avanzati per le immagini con AEM Assets">Tag avanzati per le immagini con AEM Assets</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="Tag avanzati per le immagini con AEM Assets">Tag avanzati per immagini con AEM Assets</a>
           </p>
-          <p class="is-size-6">*Descrizione:* i tag avanzati per le immagini migliorano le funzionalità di ricerca AEM aggiungendo automaticamente e in modo intelligente tag di metadati alle risorse di immagini in base al contenuto dell’immagine.</p>
+          <p class="is-size-6">*Descrizione:* i tag avanzati per le immagini migliorano le funzionalità di ricerca dell’AEM aggiungendo automaticamente e in modo intelligente tag di metadati alle risorse di immagini in base al contenuto.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
@@ -333,7 +333,7 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="Ricerca avanzata con Search Boost">Ricerca avanzata con Search Boost</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="Ricerca avanzata con Search Boost">Incremento ricerca avanzata</a>
           </p>
           <p class="is-size-6">Scopri come aggiungere parole chiave e frasi per aumentare la rilevanza di una risorsa ai fini della ricerca in Adobe Experience Manager.</p>
         </div>
@@ -347,5 +347,5 @@ Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
 
 ## Risorse aggiuntive
 
-* [Eventi Experience League](https://experienceleague.adobe.com/events/)
+* [Eventi Experienci League](https://experienceleague.adobe.com/events/)
 * [Adobe sulla catena di fornitura dei contenuti](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15076
-source-git-commit: 588f3d016786a02658c3131945e5a23a47195130
+exl-id: 61a02beb-7869-408b-8024-31e8b46f9f7a
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 3%
 
 ---
-
 
 # Tutorial sulla gestione delle risorse
 
@@ -24,7 +24,7 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
 
 >[!TIP]
 >
->Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta la sezione [Tutorial sull’integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta le [esercitazioni sull&#39;integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Corsi consigliati
 
@@ -33,15 +33,15 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Vista risorse] Importazione in blocco - Video sulle funzioni" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets - Vista risorse] Importazione in blocco - Video sulle funzioni">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Vista Assets] Importazione in blocco - Video sulle funzioni" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets - Vista Assets] Importazione in blocco - Video sulle funzioni">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Vista risorse] Importazione in blocco - Video sulle funzioni">[AEM Assets - Vista risorse] Importazione in blocco - Video sulle funzioni</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Vista Assets] Importazione in blocco - Video sulle funzioni">[AEM Assets - Visualizzazione Assets] Importazione in blocco - Video sulle funzioni</a>
           </p>
           <p class="is-size-6">Scopri come importare numerosi file in AEM Assets utilizzando la funzione di importazione in blocco, con il Dropbox che funge da provider di archiviazione cloud di esempio per un processo di integrazione chiaro e facile da seguire.</p>
         </div>
@@ -63,7 +63,7 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Assets Essentials [Asset Essentials][Workfront] e integrazione con Workfront - Catalogo">Assets Essentials [Asset Essentials][Workfront] e integrazione con Workfront - Catalogo</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Assets Essentials [Asset Essentials][Workfront] e integrazione con Workfront - Catalogo">[Asset Essentials][Workfront] Assets Essentials e integrazione Workfront - Catalogo</a>
           </p>
           <p class="is-size-6">Scopri come integrare Workfront e gli Assets Essentials.</p>
         </div>
@@ -85,9 +85,9 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" title="Integrazione di Adobi Express [AEM Assets] - Video sulle funzioni">Integrazione di Adobi Express [AEM Assets] - Video sulle funzioni</a>
+            Integrazione di <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" title="Integrazione di Adobi Express [AEM Assets] - Video sulle funzioni">[AEM Assets] Adobe Express - Video sulle funzioni</a>
           </p>
-          <p class="is-size-6">Scopri come ottimizzare le catene di fornitura dei contenuti con AEM Assets e Adobi Express, migliorando la produttività e l’accessibilità per tutti i membri del gruppo.</p>
+          <p class="is-size-6">Scopri come ottimizzare le catene di fornitura dei contenuti con AEM Assets e Adobe Express, migliorando la produttività e l’accessibilità per tutti i membri del gruppo.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
@@ -107,9 +107,9 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="[Adobe Express] Consentire ai team di marketing di creare contenuti multicanale - Video sulle funzioni">[Adobe Express] Consentire ai team di marketing di creare contenuti multicanale - Video sulle funzioni</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="[Adobe Express] Consentire ai team di marketing di creare contenuti multicanale - Video sulle funzioni">[Adobe Express] Consenti ai team di marketing di creare contenuti multicanale - Video sulle funzioni</a>
           </p>
-          <p class="is-size-6">Scopri come i team di marketing degli eventi possono creare contenuti univoci per attrarre gli spettatori per gli eventi online. In questo flusso di lavoro, un addetto al marketing B2B avvia un nuovo progetto in Adobi Express utilizzando un modello dal proprio brand kit e dalle proprie librerie. L’addetto al marketing B2B crea varianti per diversi canali social e web e condivide i contenuti sui social media e sulle piattaforme di hosting video.</p>
+          <p class="is-size-6">Scopri come i team di marketing degli eventi possono creare contenuti univoci per attrarre gli spettatori per gli eventi online. In questo flusso di lavoro, un addetto al marketing B2B avvia un nuovo progetto in Adobe Express utilizzando un modello dal proprio brand kit e dalle proprie librerie. L’addetto al marketing B2B crea varianti per diversi canali social e web e condivide i contenuti sui social media e sulle piattaforme di hosting video.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
@@ -151,7 +151,7 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="Flusso di lavoro creativo per [AEM Assets] AEM e Adobe Asset Link - Video sul valore">Flusso di lavoro creativo per [AEM Assets] AEM e Adobe Asset Link - Video sul valore</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="Flusso di lavoro creativo per [AEM Assets] AEM e Adobe Asset Link - Video sul valore">[AEM Assets] Flusso di lavoro creativo per AEM e Adobe Asset Link - Video sul valore</a>
           </p>
           <p class="is-size-6">Video che mostra il flusso di lavoro creativo di un utente che utilizza AAL e AAM</p>
         </div>
@@ -165,15 +165,15 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Creare contenuti con E-mail Designer - Video sulle funzioni" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO] Creare contenuti con E-mail Designer - Video sulle funzioni">
+          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Creazione di contenuti con e-mail Designer - Video sulle funzioni" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO] Creazione di contenuti con e-mail Designer - Video sulle funzioni">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Creare contenuti con E-mail Designer - Video sulle funzioni">[AJO] Creare contenuti con E-mail Designer - Video sulle funzioni</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Creazione di contenuti con e-mail Designer - Video sulle funzioni">[AJO] Crea contenuto con il Designer e-mail - Video sulle funzioni</a>
           </p>
           <p class="is-size-6">Scopri come creare e-mail da zero. Scopri come utilizzare le risorse della libreria di AEM Assets Essentials, modificare la progettazione delle e-mail responsive e creare e-mail dai modelli.</p>
         </div>
@@ -261,7 +261,7 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="Navigazione [Assets] - Video sulle funzioni">Navigazione [Assets] - Video sulle funzioni</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="Navigazione [Assets] - Video sulle funzioni">[Assets] Navigazione - Video sulle funzioni</a>
           </p>
           <p class="is-size-6">Scopri le nozioni di base per navigare in AEM Assets.</p>
         </div>
@@ -297,17 +297,17 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="Ricerca di [Assets] - Video sulle funzioni" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32054?format=jpeg" alt="Ricerca di [Assets] - Video sulle funzioni">
+          <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="Ricerca [Assets] - Video sulle funzioni" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32054?format=jpeg" alt="Ricerca [Assets] - Video sulle funzioni">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="Ricerca di [Assets] - Video sulle funzioni">Ricerca di [Assets] - Video sulle funzioni</a>
+            <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="Ricerca [Assets] - Video sulle funzioni">[Assets] Ricerca - Video sulle funzioni</a>
           </p>
-          <p class="is-size-6">Scopri come utilizzare AEM Omnisearch per individuare rapidamente le risorse.</p>
+          <p class="is-size-6">Scopri come utilizzare Omnisearch di AEM per individuare rapidamente le risorse.</p>
         </div>
         <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
@@ -327,7 +327,7 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/download.html" title="Download di [Assets] - Video sulle funzioni">Download di [Assets] - Video sulle funzioni</a>
+            Download di <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/download.html" title="Download di [Assets] - Video sulle funzioni">[Assets] - Video sulle funzioni</a>
           </p>
           <p class="is-size-6">Scopri come scaricare le risorse e i relativi rendering nel computer locale per utilizzarle e condividerle.</p>
         </div>
@@ -341,15 +341,15 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] App desktop AEM 2.0 - Video sulle funzioni" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28868?format=jpeg" alt="[Assets] App desktop AEM 2.0 - Video sulle funzioni">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM Desktop App 2.0 - Video sulle funzioni" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28868?format=jpeg" alt="[Assets] AEM Desktop App 2.0 - Video sulle funzioni">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] App desktop AEM 2.0 - Video sulle funzioni">[Assets] App desktop AEM 2.0 - Video sulle funzioni</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM Desktop App 2.0 - Video sulle funzioni">[Assets] AEM Desktop App 2.0 - Video sulle funzioni</a>
           </p>
           <p class="is-size-6">Utilizza l’app desktop AEM per semplificare l’accesso a qualsiasi risorsa gestita nell’AEM sul desktop, per qualsiasi applicazione e formato di file.</p>
         </div>
@@ -385,17 +385,17 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] Traduzione file sorgente risorsa - Video sulle funzioni" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Assets] Traduzione file sorgente risorsa - Video sulle funzioni">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] Traduzione file Source di risorse - Video sulle funzioni" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Assets] Traduzione file Source di risorse - Video sulle funzioni">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] Traduzione file sorgente risorsa - Video sulle funzioni">[Assets] Traduzione file sorgente risorsa - Video sulle funzioni</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] Traduzione file Source di risorse - Video sulle funzioni">[Assets] traduzione file Source risorse - Video sulle funzioni</a>
           </p>
-          <p class="is-size-6">Adobe Experience Manager (AEM) Assets consente di identificare le risorse che condividono attributi comuni e di contrassegnarle come correlate utilizzando la nuova funzione Risorse correlate.</p>
+          <p class="is-size-6">Adobe Experience Manager (AEM) Assets consente di identificare le risorse che condividono attributi comuni e contrassegnarle come correlate utilizzando la nuova funzione Assets correlato.</p>
         </div>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
@@ -407,5 +407,5 @@ Accesso semplificato e riutilizzo di milioni di risorse da un&#39;unica soluzion
 
 ## Risorse aggiuntive
 
-* [Eventi Experience League](https://experienceleague.adobe.com/events/)
+* [Eventi Experienci League](https://experienceleague.adobe.com/events/)
 * [Adobe sulla catena di fornitura dei contenuti](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
